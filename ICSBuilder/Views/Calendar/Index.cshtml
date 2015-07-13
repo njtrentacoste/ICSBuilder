@@ -1,0 +1,36 @@
+﻿@model ICSBuilder.Models.Calendar
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>@Html.LabelFor(model => model.Name)</h2>
+
+<div id="eventsWrapper">
+	@foreach (var evt in Model.Events)
+	{
+		<div class="event">
+			<span class="eventHeader">
+				@if (evt.IsRecurring)
+				{
+					<img src="" />
+				}
+
+				@if (evt.Reminder != TimeSpan.Zero)
+				{
+					<img src="" />
+				}
+			</span>
+			<p>
+				@evt.Name
+			</p>
+			<p>
+				@evt.Description
+			</p>
+		</div>
+	}
+</div>
+
+<p>
+	@Html.ActionLink("Add Event", "AddEvent")
+</p>
