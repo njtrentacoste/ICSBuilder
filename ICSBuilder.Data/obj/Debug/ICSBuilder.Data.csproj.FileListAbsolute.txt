@@ -3,3 +3,9 @@ C:\Users\ntrentacoste\Documents\Visual Studio 2013\Projects\ICSBuilder\ICSBuilde
 C:\Users\ntrentacoste\Documents\Visual Studio 2013\Projects\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.csprojResolveAssemblyReference.cache
 C:\Users\ntrentacoste\Documents\Visual Studio 2013\Projects\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.dll
 C:\Users\ntrentacoste\Documents\Visual Studio 2013\Projects\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.pdb
+C:\dev\ICSBuilder\ICSBuilder.Data\bin\Debug\ICSBuilder.Data.dll
+C:\dev\ICSBuilder\ICSBuilder.Data\bin\Debug\ICSBuilder.Data.pdb
+C:\dev\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.csprojAssemblyReference.cache
+C:\dev\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.csproj.CoreCompileInputs.cache
+C:\dev\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.dll
+C:\dev\ICSBuilder\ICSBuilder.Data\obj\Debug\ICSBuilder.Data.pdb
